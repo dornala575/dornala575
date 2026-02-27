@@ -5,11 +5,10 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 ## 👨‍💻 About Me
 
-- 🌍 I’m based in Chennai.
-- 🧑‍🎓 I’m currently Pursuing Bachelors of Engineering.
+- 🌍 I’m based in Hyderabad.
+- 🧑‍🎓 I’m currently Pursuing Bachelors of technology.
 - 🌱 I’m actively learning JAVA, PYTHON, Web development.
 - 💬 Ask me about Web development in both front-end and back-end development.
-- 📫 How to reach me: [My Portfolio](https://koushik1101portfolio.vercel.app/)
 
 ## 🚀 My Skills & Technologies
 
@@ -50,25 +49,14 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
   <img src="https://img.shields.io/badge/Canvas-%23FF8C00.svg?&style=flat-square&logo=canvas&logoColor=white" alt="Canvas">
 </div>
 
-## 📂 My Projects
-
-Here are some of the projects I've worked on:
-
-- [**Hotel Ease**](https://hotel-ease-koushik.vercel.app/) - A hotel room booking webpage.
-- [**Real Estate Website**](https://pride-real-estate.vercel.app/) - A website for searching real estate properties.
-- [**My Portfolio**](https://koushik1101portfolio.vercel.app/) - Showcasing my skills and for contacting me.
-- [**QuickBytes**](https://food-website-beta-indol.vercel.app/) - A food ordering website.
-
-Check out my full portfolio on GitHub for more projects!
 
 ## 📫 Reach Out to Me
 
-- ✉️ Email: [koushikvarma6369@gmail.com](mailto:koushikvarma6369@gmail.com)
-- 💼 LinkedIn: [Koushik Varma](https://www.linkedin.com/in/koushik-varma1011/)
-- 🌐 Website: [My Portfolio](https://koushik1101portfolio.vercel.app/)
+- ✉️ Email: [dornalavignesh22@gmail.com](mailto:dornalavignesh22@gmail.com)
+- 💼 LinkedIn: [DORNALA VIGNESH](https://www.linkedin.com/in/dornala-vignesh/)
 
 Thanks for stopping by! 😊
 
 ---
 
-<sub>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/koushik-varma1011/) or follow me for updates. 😊</sub>
+<sub>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dornala-vignesh/) or follow me for updates. 😊</sub>
